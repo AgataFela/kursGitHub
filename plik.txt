@@ -1,3 +1,5 @@
 zmiana w pliku
 kolejna zmiana w pliku
 znowu zmieniam treść pliku
+Dodawanie eksperymentalnej wartości
+
