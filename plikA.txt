@@ -1,1 +1,1 @@
-To jest zawartość pliku A
+To jest ZMIENIONA zawartość pliku A
