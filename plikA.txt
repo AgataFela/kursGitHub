@@ -1,1 +1,1 @@
-To jest ZMIENIONA zawartość pliku A
+Szybka naprawa błędu wpliku A na gałęzi master.
