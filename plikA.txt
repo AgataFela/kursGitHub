@@ -1,1 +1,2 @@
 Szybka naprawa błędu wpliku A na gałęzi master.
+i koklejna naprawa
